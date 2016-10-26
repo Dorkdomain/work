@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="jquery-3.1.1.min.js" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <option name="frameworkVersion" value="3.1.1" />
+      <sourceFilesUrls>
+        <item url="file://D:/wamp64/bin/php/php5.6.25/jquery-3.1.1.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://D:/wamp64/bin/php/php5.6.25/jquery-3.1.1.min.js" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.jquery.com_resources_api.xml.xml" />
+      <root url="http://api.jquery.com" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>
