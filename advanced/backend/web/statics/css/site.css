@@ -1,0 +1,17 @@
+@CHARSET "UTF-8" ;
+
+.form-search select{
+    height: 34px ;
+    line-height: 34px ;
+    margin-right:5px;
+}
+
+.summary {
+    margin-top:5px;
+}
+.pagination {
+    margin-top:0px;
+}
+.help-block, .help-inline{
+    color:#e02222;
+}
